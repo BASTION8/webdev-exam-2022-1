@@ -1,0 +1,72 @@
+/* Коричневый: ярко-голубой, кремовый, розовый, палевый, зеленый, бежевый */
+
+body {
+    background-color: #f5f5dc;
+    color: #964b00;
+}
+
+.header, .footer {
+    background-color: #f5f5dc!important;
+    border-color: #964b00!important;
+}
+
+.header a, footer a, footer p, .vr{
+    color: #964b00!important;
+}
+
+.heading-line{
+    height: 3px; 
+    width: 300px;
+    background-color: #964b00!important;
+}
+
+.benefits i{
+    font-size: 3rem;
+    color: #e75480;
+}
+
+.carousel-item {
+    max-height: 550px;
+}
+
+.restaurants, .additional-options, .table {
+    background-color: #fffdd0!important;
+    color: #964b00;
+}
+
+.search {
+    border-color: #e75480!important;
+}
+
+.form-select{
+    background-color: #964b00;
+    color: #fffdd0!important;
+}
+
+.btn{
+    color: #f5f5dc!important;
+}
+
+.border-2 {
+    border-color: #e75480!important;
+}
+
+.card {
+    background-color: #964b00!important;
+    color: #fffdd0!important;
+    width: 18rem;
+}
+
+.card button{
+    color: #f5f5dc!important;
+    border-color: #f5f5dc!important;
+}
+
+.card input{
+    border-color: #964b00!important;
+}
+
+.footer i{
+    font-size: 2.5rem;
+    color: #964b00;
+}
